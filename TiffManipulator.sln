@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TiffManipulator", "TiffManipulator\TiffManipulator.vbproj", "{38900F46-92CC-418F-B85D-074F86DDA825}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38900F46-92CC-418F-B85D-074F86DDA825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38900F46-92CC-418F-B85D-074F86DDA825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38900F46-92CC-418F-B85D-074F86DDA825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38900F46-92CC-418F-B85D-074F86DDA825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16D7211E-0F6F-40B4-8768-B3742323A73A}
+	EndGlobalSection
+EndGlobal
